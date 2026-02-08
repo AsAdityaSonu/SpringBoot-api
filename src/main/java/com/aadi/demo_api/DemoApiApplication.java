@@ -1,13 +1,13 @@
-package com.aadi.test_api;
+package com.aadi.demo_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TestApiApplication {
+public class DemoApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestApiApplication.class, args);
+		SpringApplication.run(DemoApiApplication.class, args);
 	}
 
 }
