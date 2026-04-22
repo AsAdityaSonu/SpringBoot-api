@@ -1,10 +1,10 @@
-package com.aadi.demo_api;
+package com.bitsinbinary.bib;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApiApplicationTests {
+class BibApplicationTests {
 
 	@Test
 	void contextLoads() {
